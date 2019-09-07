@@ -1,0 +1,611 @@
+region_name,competition_year,id,name,short_desc,long_desc,eligibility,video_url,created_at,updated_at,sponsors
+Australia,2019,170,ATO for individuals,How can ATO and other Australian public data be used to help the community fill employment opportunities? ,"The ATO has extensive data on individuals that describes organised statistics on income, occupations, deductions, demographics, and more. How can this information be used to help inform individual taxpayers on how to optimise their occupational decisions? Can you predict what areas are going to be in high demand and are worth training in, or provide advice on how there is a shortage of a client’s occupation in a given state or territory?
+
+Feel free to focus on the visualisation of existing data, or on models for extrapolating insights, or what you believe could be developed to bring benefits to the community of individuals in Australia.
+",The participants need to use ATO Taxation Statistics.,"",2019-09-06 12:29:05 +1000,2019-09-06 12:29:05 +1000,"[""ATO""]"
+Australia,2019,121,Australia@Sea: what is our future relationship with the ocean environment?,"Our oceans are vital to the world’s economy and provide services for all Australians including food security, industries, tourism, and well-being.","With climate change creating environmental pressures like sea-level rise, ocean acidification and threats to marine life, use one or more CSRIO data sets to connect all Australians to our oceans of the future.","Must use one or more CSIRO dataset
+","",2019-09-05 22:39:25 +1000,2019-09-06 03:58:31 +1000,"[""CSIRO""]"
+Australia,2019,113,Australia’s Future Employment,"Choose one of the following questions to address:
+1. How can recent and future changes in the labour market help prepare young
+people for job opportunities?
+2. What can we learn from case studies of regional labour markets? For example,
+what does rapid change in the industries or occupations within a region tell us about the needs of employers/workers in other regional labour markets","The Labour Market Information Portal (LMIP) hosts a number of datasets that enable GovHack participants to explore employment projections, internet job advertisements, labour market data like employment, unemployment, occupation and industry composition, and jobactive caseload data for regions across Australia. 
+LMIP data can inform the analysis of many different policy challenges, and while it is already open data, the setting of policy challenges can encourage participants to focus on the datasets within the Portal. In this context.
+",Use one or more datasets from the Labour Market Information Portal,"",2019-09-05 15:28:22 +1000,2019-09-06 03:42:26 +1000,"[""Department of Employment Skills, Small and Family Business""]"
+Australia,2019,112,Bankruptcy – making it easier,This challenge aims to help us make it easier for people to tell us their income and assets when they become bankrupt.,"The winning entry will help us to check this data. It will answer questions like: Is there other data besides ours on income and assets? Who are more likely to earn higher incomes or have assets, like houses or shares or savings? Can we use machine learning to use other data to predict income and assets?",Must use Attributes of insolvent debtors Dataset,https://www.youtube.com/embed/eMT72t41hPc,2019-09-05 15:20:49 +1000,2019-09-06 04:08:23 +1000,"[""AFSA""]"
+New Zealand,2019,172,Best Creative Use Of Technology,Best Creative Use Of Technology,"",Must use NZ data.,"",2019-09-06 12:49:16 +1000,2019-09-06 12:49:16 +1000,"[""Proaxiom""]"
+New Zealand,2019,174,Best use of data to assist in a Civil Emergency,Best use of data to assist in a Civil Emergency,"",Must use NZ data,"",2019-09-06 12:50:10 +1000,2019-09-06 12:50:10 +1000,"[""Proaxiom""]"
+Tasmania,2019,159,Best use of Tasmanian Heritage Data ,"Use the data to showcase Launceston’s history, people and stories. ",https://libraries.tas.gov.au/archive-heritage/Pages/default.aspx,Must use Tasmanian data.,"",2019-09-06 06:06:13 +1000,2019-09-06 06:06:13 +1000,"[""Department of Premier and Cabinet Tasmania""]"
+Tasmania,2019,158,Best Use of Tasmanian Spatial Data,How can you use a Tasmanian spatial data to improve Tasmanian residents lives on a daily basis?,To encourage contestants to analyse and put to best use of Tasmanian spatial data,Must use Tasmanian data.,"",2019-09-06 06:04:14 +1000,2019-09-06 06:04:14 +1000,"[""Department of Premier and Cabinet Tasmania""]"
+New Zealand,2019,173,Best Way to Promote Positive Mental Health,Best Way to Promote Positive Mental Health,"Have a look at 
+https://mentalhealth.inquiry.govt.nz/inquiry-report/he-ara-oranga/
+https://balance.org.nz",Must use NZ data.,"",2019-09-06 12:49:46 +1000,2019-09-06 19:37:10 +1000,"[""Proaxiom""]"
+Australian Capital Territory,2019,127,Canberra 2029 – First Hackers: Inclusive; Progressive; Connected,How do we use data from the past to predict a better future for Canberra? How do we best support the diversity of our community? Optimise the way we travel and transport goods throughout our city? Predict the jobs of the future – and the skills needed for them? Connect our citizens with their environment?,"The ACT Population Projections 2018 to 2058 (https://apps.treasury.act.gov.au/snapshot/demography/act) point us to some exciting and challenging facts for us to manage into the future 
+
+- By the year 2022 the ACT population is projected to reach over 452,000 people from the current (2019) 420,000.
+- We are projected to reach 500,000 by 2029 and 703,000 by 2058.
+
+A growing population is more than just the numbers. The shape of our community, and our city, will also change. As our population changes, we will look for different places, and ways, to live. We will seek out new employment opportunities and new ways to travel between our homes, schools, places of work and places of recreation. We will continue to care about the impact of our actions on both the built and natural environment. We will want to become more involved in the decision-making that impacts upon our community. 
+
+What is in our past that can help us build a better future? Use historical data about Canberra to help shape what our city and community looks like in 2029. 
+
+Our **First Hackers** prize will be for the project that shows how you’ve used data to build a picture of the past that backs up your prediction for a better future. One that shows a picture of Canberra 2029 in one or more of the following areas:
+
+- Transport
+- Housing
+- Business and skills
+- Environment and planning
+
+Please see that attached handout to get more detail on each of the individual areas.
+","Majority of team members need to have never competed in a GovHack previously and Must use at least ONE relevant/related dataset from www.data.act.gov.au
+","",2019-09-06 04:24:47 +1000,2019-09-06 04:25:44 +1000,"[""ACT Government""]"
+Australian Capital Territory,2019,126,🌟 Canberra 2029 – Inclusive; Progressive; Connected,How do we use data from the past to predict a better future for Canberra? How do we best support the diversity of our community? Optimise the way we travel and transport goods throughout our city? Predict the jobs of the future – and the skills needed for them? Connect our citizens with their environment?,"The ACT Population Projections 2018 to 2058 (https://apps.treasury.act.gov.au/snapshot/demography/act) point us to some exciting and challenging facts for us to manage into the future 
+
+- By the year 2022 the ACT population is projected to reach over 452,000 people from the current (2019) 420,000.
+- We are projected to reach 500,000 by 2029 and 703,000 by 2058.
+
+A growing population is more than just the numbers. The shape of our community, and our city, will also change. As our population changes, we will look for different places, and ways, to live. We will seek out new employment opportunities and new ways to travel between our homes, schools, places of work and places of recreation. We will continue to care about the impact of our actions on both the built and natural environment. We will want to become more involved in the decision-making that impacts upon our community. 
+
+What is in our past that can help us build a better future? Use historical data about Canberra to help shape what our city and community looks like in 2029. 
+
+Our **major prize** will be for the project that shows how you’ve used data to build a picture of the past that backs up your prediction for a better future. One that shows a full picture of Canberra 2029 in all (or the majority of) the following areas:
+
+- Transport
+- Housing
+- Business and skills
+- Environment and planning
+
+We will also offer **four runners up prizes** for projects that predict a better future for the Canberra of 2029 focusing on at least one area of either transport, housing, business and skills, or environment and planning.
+
+Please see that attached handout to get more detail on each of the individual areas.
+",Must use at least ONE relevant/related dataset from www.data.act.gov.au ,"",2019-09-06 04:20:44 +1000,2019-09-07 10:58:25 +1000,"[""ACT Government""]"
+Australian Capital Territory,2019,128,Canberra 2029 – Youth Hacker - Inclusive; Progressive; Connected,How do we use data from the past to predict a better future for Canberra? How do we best support the diversity of our community? Optimise the way we travel and transport goods throughout our city? Predict the jobs of the future – and the skills needed for them? Connect our citizens with their environment?,"The ACT Population Projections 2018 to 2058 (https://apps.treasury.act.gov.au/snapshot/demography/act) point us to some exciting and challenging facts for us to manage into the future 
+
+- By the year 2022 the ACT population is projected to reach over 452,000 people from the current (2019) 420,000.
+- We are projected to reach 500,000 by 2029 and 703,000 by 2058.
+
+A growing population is more than just the numbers. The shape of our community, and our city, will also change. As our population changes, we will look for different places, and ways, to live. We will seek out new employment opportunities and new ways to travel between our homes, schools, places of work and places of recreation. We will continue to care about the impact of our actions on both the built and natural environment. We will want to become more involved in the decision-making that impacts upon our community. 
+
+What is in our past that can help us build a better future? Use historical data about Canberra to help shape what our city and community looks like in 2029. 
+
+Our **Youth Hacker** prize will be for the project that shows how you’ve used data to build a picture of the past that backs up your prediction for a better future. One that shows a picture of Canberra 2029 in one or more of the following areas:
+
+- Transport
+- Housing
+- Business and skills
+- Environment and planning
+
+Please see that attached handout to get more detail on each of the individual areas.
+","Majority of team members need to be attending a Canberra-based school – up to and including Year 12 and Must use at least ONE relevant/related dataset from www.data.act.gov.au 
+","",2019-09-06 04:29:07 +1000,2019-09-06 04:29:29 +1000,"[""ACT Government""]"
+Tasmania,2019,162,🌟 Climate Change Issues in Hobart,What local climate change issues can you help solve or identify by integrating data sources?,"What local climate change issues can you help solve or identify by integrating data sources?
+
+To get you thinking:
+
+-	What demographics are investing most in rooftop solar PV electricity generation in Hobart?
+-	What is the solar potential of Hobart rooftops?
+-	What are smart future thinking solutions to local energy generation and use?
+-	How will future climate events such as coastal erosion, flooding, coastal inundation, heat and bushfires impact the built and natural environment?
+",Use one or more datasets from CoH Open data portal and ensure the submission relates to climate change issues in Hobart,"",2019-09-06 06:10:03 +1000,2019-09-06 06:10:03 +1000,"[""City of Hobart""]"
+New Zealand,2019,124,Combating the Climate Emergency,Best hack to combat the climate emergency.,"",Must use NZ data,"",2019-09-06 04:14:46 +1000,2019-09-06 04:14:46 +1000,"[""Proaxiom""]"
+Northern Territory,2019,177,🌟 Communicating Water issues to regularly new residents in Alice Springs,Educating new residents to Alice Springs about current and historical community water initiatives.,"Up to 3/5 of Alice Springs residents are new to Alice Springs within the last 5 years*.
+Communicating local need-to-know information, as well as major initiatives, can get lost.
+Focussing on a water saving campaign of 2013, how can the town ensure regularly new
+residents each year receive and respond to existing community initiatives?
+
+
+Additional Resources
+https://data.nt.gov.au/
+https://childfriendlyalice.weebly.com/resources.html
+http://alicewatersmart.com.au/",Use of at least one data source from new NT Open Data portal,"",2019-09-06 16:34:18 +1000,2019-09-07 10:16:49 +1000,"[""NTG""]"
+Northern Territory,2019,155,"🌟 Community “Clean, Green and Lean” Rewards","Develop a business solution which encourages people to live an active and green lifestyle, incentivised by a digital perks system, offered in partnership with local businesses.  ",http://open-darwin.opendata.arcgis.com,"","",2019-09-06 05:47:22 +1000,2019-09-07 10:17:07 +1000,"[""City of Darwin""]"
+Northern Territory,2019,153,🌟 Community open data weather monitoring and alerts system,"Develop a digital solution, underpinned by IoT (Internet of Things) data, which is capable of early detection and alerting for weather and climate related risks to the community.",http://open-darwin.opendata.arcgis.com,Use at least one City of Darwin data source.,"",2019-09-06 05:44:13 +1000,2019-09-07 10:17:22 +1000,"[""City of Darwin""]"
+Victoria,2019,151,🌟 Creating a clean city,"Our residents and businesses produce, consume, and dispose of waste every day. 
+Many residents are unaware of what happens to their waste once it enters a bin or simply don't care.
+How might we use data to empower and educate our community about their waste?","We aspire to be a clean and clever city and want to ensure we don't waste one of our most valuable resource, our data.
+
+With population growth comes an increased amount of waste being generated.
+We need to support people to make smart choices at each step of the waste life cycle.
+
+How can we paint a picture of the waste life cycle for our community using data?",Use atleast 1 City of Ballarat waste dataset from data.gov.au,"",2019-09-06 05:34:49 +1000,2019-09-06 05:34:49 +1000,"[""City of Ballarat""]"
+Northern Territory,2019,178,🌟 Deliver better health outcomes for people living in remote areas,Remote health services are challenging for both providers and patients.,"Many chronic conditions exist: eye problems, kidney problems, and cancer problems. Many service
+issues exist: expensive flights, insufficient health buses, retention and safety of isolated
+health workers. Pick a health condition (any, even not mentioned), learn how that is
+currently serviced remotely, and try to improve the process for all.
+
+Further Information
+https://www.crh.org.au/centre-for-remote-health-publications
+https://www.healthdirect.gov.au/northern-territory-rural-and-remote-health-services
+https://nt.gov.au/wellbeing/remote-health/remote-health-services",Use of at least one data source from new NT Open Data portal,"",2019-09-06 16:43:19 +1000,2019-09-07 10:17:37 +1000,"[""NTG""]"
+Northern Territory,2019,154,🌟 Determine logistics for E-mobility transport in Darwin CBD,"Identify (and justify) the ideal locations for E-mobility stations in Darwin CBD. 
+
+http://open-darwin.opendata.arcgis.com","Your solution should consider factors such as:
+
+- Traffic safety
+- User demographics
+- Ease of navigation
+- Weather and climate
+- Convenience
+- Proximity to points of interest",Use at least one City of Darwin data source.,"",2019-09-06 05:46:11 +1000,2019-09-07 10:17:54 +1000,"[""City of Darwin""]"
+South Australia,2019,156,Digital Culture,"How do we make our digital cultural heritage collections engaging for online audiences? What experiences should we be developing beyond the search and retrieve box to visualise gallery, library and museum collections online and encourage their reuse and good storytelling?","",Must use at least 2 datasets from 2 separate institutions that make up the North Terrace Cultural Precinct Innovation Lab,"",2019-09-06 05:59:59 +1000,2019-09-06 05:59:59 +1000,[]
+Queensland,2019,137,Economy and Jobs,How can we create more jobs and grow the Queensland economy?  ,"Queensland’s $349 billion modern, vibrant economy is supported by a range of industries and services. 
+
+Over the past two decades, Queensland’s economic growth has generally exceeded the national average thanks to developments such as the resources investment boom and the associated upturn in LNG exports.
+
+Health, Mining & Energy, Agriculture, Construction, Education & Training, Financial & Professional Services and Tourism are the major contributors to economic growth in Queensland.  
+
+Queensland’s population could be more than 8 million by 2066.  
+
+#### Extra Resources
+https://www.data.qld.gov.au/article/news-and-events/govhack-2019-challenges/economy-jobs ",We suggest you consider using the Queensland Government open datasets on data.qld.gov.au.,https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-06 04:56:20 +1000,2019-09-06 23:08:54 +1000,"[""Queensland Government""]"
+Western Australia,2019,166,Efficient Visualisation,Immersive visualisation to understand data,"To have better understanding of the data, it’s crucial to visualise it in a meaningful way. Generally, different tools and techniques could be utilised for visualisation. The data used for the challenge could cover wide range of fields such as climate, traffic, community health, environment, geo-science, etc. and the best approach will deliver workflow setup using single/multiple open-source/commercial tools in the most efficient way.",Use any open dataset to support your entry and having experience in scientific visualisation,"",2019-09-06 06:26:09 +1000,2019-09-06 06:26:09 +1000,"[""Pawsey Supercomputing Centre""]"
+Western Australia,2019,181,Encouraging participation of WA youth in the broader community,"This challenge is to recognise the project that encourages the participation of WA youth
+in the broader community","This challenge is to recognise the project that encourages the participation of WA youth
+in the broader community
+
+Data sets from other states can be used to demonstrate proof of application, and
+suggests the type of data sets we need to negotiate for collection and release in WA.",WA contestants only,"",2019-09-06 17:12:05 +1000,2019-09-06 19:44:29 +1000,[]
+Queensland,2019,138,Environment and Science Data,How might we use environment and science data to better engage with the community?,"Queensland is home to five World Heritage areas and has a diverse array of ecosystems.
+
+The Queensland Government is committed to long term protection and conservation of the environment and ecologically sustainable use of its resources.
+
+How can you use data to better tell a story and engage with Queenslanders our environment?
+
+#### Extra Resources
+https://www.data.qld.gov.au/article/news-and-events/govhack-2019-challenges/environment-science-data-challenge
+https://science.des.qld.gov.au/government ",Your solution to this challenge must use at least one environment and science dataset from the Department of Environment and Science,https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-06 04:59:03 +1000,2019-09-06 23:10:50 +1000,"[""Queensland Government""]"
+Queensland,2019,140,Getting around on the Gold Coast,"How can we improve the way locals and tourists travel to, from and around the Gold Coast?","",Must make use of Gold Coast relevant data,"",2019-09-06 05:02:52 +1000,2019-09-06 05:02:52 +1000,"[""Griffiths University in association with City of Gold Coast""]"
+Western Australia,2019,165,🌟 Granular Tourism Information,We struggle to find reliable visitation and expenditure figures for the tourism sector for the Mid West and for Geraldton specfically,"We would like to have access to reliable data for the tourism sector for the Mid West and Geraldton in particular: we require: tourist origin, tourist destination, length of stay in WA, time spent in Geraldton, money spent in WA and money spent in Geraldton.",Use any open dataset to support your entry.,"",2019-09-06 06:24:43 +1000,2019-09-06 06:24:43 +1000,"[""City of Greater Geraldton""]"
+Australia,2019,110,Helping a social impact ‘start up’ (small organisation) to tell their story,"Small and informal community/interest groups who have formed to solve local problems need data to know if their activities are making a difference and to re-design programs.  How can we help these groups tell their story through data so they can seek support (political, financial, and on the ground) by showing how their programs are working, and decide where to focus next?","We are seeking to help the small and informal community groups who have formed to support families or children to make their lives better. 
+
+These groups might be urban, rural or remote, they might only focus on a specific part of the community (e.g. local teenagers), or a particular issue (e.g. creating safe and supportive places to meet).  However, what they have in common is needing the right data to tell their story:
+- to explain how and why they are making a difference and who for, 
+- to identify gaps and the next steps in further supporting their community, and
+- so they know where to focus next and who to collaborate with or if they need other resources. 
+Can you create a way to support one of these groups (perhaps one working on an issue that you already know about) to tell their story? 
+
+Having the data they need to tell their story can help a group to:
+- clarify what they are doing and who they are helping,
+- test and re-design activities to better meet the needs in their community, 
+- seek support (social, financial and political), and 
+- decide when and how to collaborate with other groups with similar goals.
+
+The NDIS demand map provides an example of how data sources might be brought together to help new group (in this case potential NDIS providers) with gaps or next steps.  It shows the potential demand for disability services in a region.
+https://blcw.dss.gov.au/ndis-demand-map/.  
+
+A successful challenge might do something similar for another issue, or take this one-step further.  It would support local groups after they have identified the need for their work, to help them find out about their community context and to re-design social programs, by knowing what activities are making a difference.
+
+Challenges do not need to incorporate DSS data. There are several datasets released by DSS and others on data.gov and data released by the ABS and the AIHW that may provide insights into local communities and the populations within them that may face additional challenges.
+Other data might include Settlement data or Disability Employment Services (Outcome Rates by Disability Type) on data.gov.au.  
+There are also other forms of information such as recent reports by the NDIA https://www.ndis.gov.au/about-us/data-and-insights
+
+Further Information
+The NDIS demand map provides an example of providing data to communities - it shows the potential demand for services for disability service providers
+https://blcw.dss.gov.au/ndis-demand-map/",Use any open dataset to support your entry.,"",2019-09-05 12:38:15 +1000,2019-09-06 04:06:25 +1000,"[""Department of Social Services""]"
+Australia,2019,114,Helping Start-ups and New Small Businesses in Australia,"Choose one of the following questions to address:
+1. What trends in business activity can help encourage self-employment through NEIS?
+2. What type of NEIS businesses are being started and are successful (participated in the full 12 months of NEIS Assistance) and what can we learn from broader industry growth areas?
+3. How do we encourage self-employment through greater participation in NEIS for cohorts currently underrepresented?","New Business Assistance with NEIS assists eligible people to start and run their own businesses. The program provides accredited small business training, business advice and mentoring for up to 52 weeks and, if eligible, NEIS Allowance for up to 39 weeks.",Use the New Business Assistance with NEIS dataset,"",2019-09-05 15:41:08 +1000,2019-09-06 04:02:26 +1000,"[""Department of Employment Skills, Small and Family Business""]"
+Queensland,2019,176,Highlighting the regional living advantages over metropolitan capitals.,Enabling people to choose the most suitable regional centre for a sea or tree change.,"People considering migration to regional centres require ways of evaluating data in an
+
+informative and insightful way to assist them in making a decision to move away from urban centres. This Challenge is open to all data sets but entrants are encouraged to look at data in the following areas:
+
+Access to secondary and tertiary education
+Access to health services including hospitals
+Median house prices
+Salary ranges for professionals
+Traffic wait times/ no. of traffic lights from home to destination of employment
+Average daily temperature
+Ease of access to natural and leisure destinations
+Population density
+Air quality
+Entrants are not limited to the above list and so encouraged to be creative with the use of datasets.","Open to teams from Regional Areas
+","",2019-09-06 15:27:34 +1000,2019-09-06 16:29:38 +1000,[]
+Western Australia,2019,169,🌟 How can we make education inclusive for students with disabilities?,"Various disabilities can prove to be a barrier to learning and functioning in education. In order to provide an inclusive environment, institutions and educators need to learn how to help remove those barriers; and students need to feel that they can be involved in the process.","Typically having a higher level of education results in better employment opportunities, economic security and increased independence. However, people living with disabilities face challenges on a continual basis, that includes difficulties in participating at school leading to lower educational attainment.
+
+In recent findings, 9% of school students have a disability and 83% of people with autism in Australia were under the age of 25. 
+
+People of all ages are able to access educational opportunities, but people with disabilities often lack engagement, attainment, and participation. Coming up with ways to make education more inclusive is vitally important, as is coming up with ideas outside traditional educational pathways and support options.
+",Use any open dataset to support your entry.,"",2019-09-06 06:37:03 +1000,2019-09-06 06:37:03 +1000,"[""Southern Regional TAFE""]"
+Victoria,2019,152,Immerse yourself in Ballarat,"Ballarat is rich with history and adventure.
+Visitors may come alone, with friends, or as a family. Some from the other side of the world and other, just down the road.
+How can we help visitors plan their adventure around the City of Ballarat?","There are many ways people can experience our culture and history.
+
+How do they discover the path less travelled? Immerse themselves in the sights and sounds of the town?
+
+Start the day with a coffee and a brisk walk and finish with a spectacular display on the football field or theatre.
+
+Can you help our visitors get to Ballarat and make their way around this historic town?",Use at least 1 City of Ballarat dataset from data.gov.au. Use at least 1 transport dataset.,"",2019-09-06 05:35:58 +1000,2019-09-06 05:35:58 +1000,"[""City of Ballarat""]"
+New South Wales,2019,129,🌟 Impoving cost of living outcomes by using rules as code,Improve the NSW Government’s Cost of Living initiatives by designing a service using a coded rules engine.,"We want to improve cost of living related outcomes for the residents of NSW. 
+Business logic and rulesets are the foundation of digital service design. Eligibility engines are manually coded to reflect government policy. When policies are changed, the eligibility application needs to be re-drafted to accommodate the policy change.
+To improve this process, we want you to identify an opportunity to use or create a coded rules engine to deliver a [Cost of Living](https://www.service.nsw.gov.au/campaign/cost-living) service.  
+
+[NSW government coded rules](https://github.com/digitalnsw/openfisca-nsw)
+[NZ Smartstart](https://smartstart.services.govt.nz/)
+[OpenFisca-Aotearoa](https://github.com/ServiceInnovationLab/openfisca-aotearoa)","Teams must design a service that uses either the NSW Openfisca API (if they are utilising existing coded rules) or build an Openfisca API instance themselves if they are coding their own rules. 
+Teams can choose any of the NSW government coded rules related to Cost of Living, or alternatively code some of their own rules/policies by choosing any that apply to NSW. 
+An example of a service that is built using OpenFisca based coded rules is the NZ Smartstart, and the rules for the service can be seen at OpenFisca-Aotearoa.
+","",2019-09-06 04:32:55 +1000,2019-09-06 04:34:52 +1000,"[""Department of Customer Service""]"
+New South Wales,2019,130,🌟 Improving the customer experience of government services,How can government data be used to improve the experience of citizens interacting with government?,"Use NSW government open data to identify opportunities to drive customer service improvements. This may mean creating an app or a dashboard to make government information more accessible.
+The NSW government is working to deliver a more consistent and efficient digital experience for citizens interacting with government. We want to see how our data can be applied to achieving this goal.","Teams can use any open datasets, but at least one must be a NSW Government dataset.","",2019-09-06 04:36:14 +1000,2019-09-06 04:36:14 +1000,"[""Department of Customer Service""]"
+International,2019,109,Increased participation in Plastic Free July,"People are increasingly aware of the problems with plastics and want to ‘do their bit’ but how do we increase engagement in Plastic Free July? Using data and IT-based solutions, how can we increase both geographical update and reach a wider demographic (particularly more men)?","There is increasing awareness around the issues relating to plastics in our oceans and also our air, water, soil and even our bodies.  Tackling this issue will require a combination of approaches. Direct participation in reducing our own single-use plastic use not only adds up to make an impact and sends a message to manufacturers that we would prefer to buy less plastic as packaging but also creates a strong level of engagement and makes as a society able to drive change at a policy level in government and industry.
+Plastic Free July has been found to be an effective way to engage people by setting themselves a challenge to give us as much or as little single-use plastic as they feel comfortable with for the month of July. Some of the changes that people make to their lives in July can become changes that they adopt for the rest of the year too.
+
+Taking action for Plastic Free July is popular, yet less than 1% sign up through www.plasticfreejuly.org and social media channels. 
+
+The questions is: ‘**how do we increase direct engagement in Plastic Free July**’?
+
+-	A general population survey in WA shows 94% of people are concerned about plastic pollution (dataset attached)
+-	Globally, waste, water pollution and plastics are considered top environmental issues (Ipsos Earth Day results attached)
+-	Globally, an estimated 120 million people took action for Plastic Free July (Ipsos Global Advisor Results attached)
+-	In 2017, 100,000 people signed up to PFJ web or social media. So 1% of PFJ participants in Australia sign up, 0.1% in G7 nations and 1 in 100,000 participants in developing nations.
+
+### Supplementary issue:
+One problem with engagement in environmental-positive behaviours is that they don’t manage to engage with men. Only 10% of PFJ participants are male. 
+
+### How do we get more men to participate in Plastic Free July?
+
+- PPQ Summary (attached) shows the uptake of plastic avoidance actions
+- Media snapshot (attached) shows the public profile of Plastic Free July
+
+There is some data and information provided, but please also use www.Plasticfreejuly.org to access more information and resources.
+
+### Attached Data and Files
+https://bit.ly/2kuSPUJ
+
+### External Links
+www.plasticfreejuly.org
+",Use any open dataset to support your entry.,"",2019-09-05 11:51:16 +1000,2019-09-06 03:38:41 +1000,"[""Encycle""]"
+Queensland,2019,136,Indigenous Languages,How might we showcase Aboriginal and Torres Strait Islander language materials?,"The State Library of Queensland is committed to raise awareness and act to preserve and promote Aboriginal and Torres Strait Islander languages in Australia.
+
+The United Nations declared 2019 The International Year of Indigenous Languages. In Australia, approximately 90% of Aboriginal and Torres Strait Islander languages are endangered.
+
+To date, we have identified over 90 Aboriginal and Torres Strait Islander languages in more than 600 State Library collection items. How do we tell this story by showcasing State Library language materials to users?
+
+#### Extra Information
+https://www.data.qld.gov.au/article/news-and-events/govhack-2019-challenges/atsi-languages ",Your solution to this challenge should use at least one dataset from the State Library of Queensland,https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-06 04:51:12 +1000,2019-09-06 23:11:30 +1000,"[""Queensland Government""]"
+New Zealand,2019,123,Innovate New Zealand,Best innovative hack using Stats NZ data,"",Must use data from Stats NZ,"",2019-09-06 04:13:39 +1000,2019-09-06 04:13:39 +1000,"[""StatsNZ""]"
+Australia,2019,118,Innovative ways to be efficient with water,"Innovative ideas about water efficiency. Climate change means that we will have more unpredictable weather. Some of Australia is in drought and some areas have plenty of water. That changes each year. Water efficiency was a focus around the millennium drought. We want new, innovative and untapped ideas on ways to be efficient with water use. These ideas could include how we use water, how we can save water, how we waste water, how everyone can make a difference in using water wisely, water rules and ideas on saving water for the future.","With population growth and climate change, the demand for water is increasing every day. How can we make use of what water we have in the most efficient way? We would like to generate new and innovative ideas to educate the community to be more water efficient. Is there a better way to educate and engage our youth and community to understand how much water we use, how we use it, how we can save it? 
+
+(The following does not form part of the challenge: Participants are invited to take a shortvideo/photos of themselves undertaking our challenges and post on Instagram #centralhighlandswater)
+
+Our judging panel includes
+Mr Anand Arivukkarasu, VP Product, Grin (Silicon Valley startup) and previously well-known Product & Growth Leader at Facebook from California USA
+
+Central Highlands Water Govhack hub
+www.chw.net.au/govhack - http://www.chw.net.au/govhack
+
+Further Information
+1. Australian Curriculum - https://www.australiancurriculum.edu.au/
+2. Coliban Water - https://www.coliban.com.au/
+3. Department of the Environment and Energy Australia - https://www.energy.gov.au/households/water-efficiency
+4. Department Environment, Land, Water and Planning Victoria - https://www.water.vic.gov.au/
+5. Digital metering program - https://www.yvw.com.au/help-advice/water-meters/digital-metering-joint-program
+6. Government of Western Australia water efficiency - http://www.water.wa.gov.au/urban-water/water-recycling-efficiencies/water-efficiency
+7. Hunter Water - https://www.hunterwater.com.au/
+8. Melbourne Water - https://www.melbournewater.com.au/water
+9. Power and Water NT - https://www.powerwater.com.au/
+10. Queensland Urban Water Utilities - https://urbanutilities.com.au/
+11. Schools Water Efficiency Program - https://www.myswep.com.au/
+12. Smart Water Advice - https://www.smartwatermark.org/Victoria/
+13. SA Water - https://www.sawater.com.au/
+14. SEQ Water - https://www.seqwater.com.au/
+15. South East Water- https://southeastwater.com.au
+16. Sustainability Victoria - https://www.sustainability.vic.gov.au/You-and-your-home/Live-sustainably/Save-water
+17. Sydney Water - https://www.sydneywater.com.au/
+18. Water Corporation - https://www.watercorporation.com.au/
+19. Water Group - https://www.watergroup.com.au/water-efficiency
+20. Water in NSW - https://www.industry.nsw.gov.au/water
+21. Water Rating - https://www.waterrating.gov.au/
+22. Western Water - https://www.westernwater.com.au/
+23. WSAA - https://www.wsaa.asn.au/
+24. Vic Water - https://vicwater.org.au/
+25. Victoria State Government Planning - https://www.planning.vic.gov.au/",Australia Only,https://www.youtube.com/embed/chIOaYDwkFU,2019-09-05 21:51:39 +1000,2019-09-06 13:56:10 +1000,"[""Central Water Highlands""]"
+South Australia,2019,143,Investing in Regions,How might the Government prioritise its investment in regional South Australia for greatest regional development benefit?,"Regional development incorporates social interactions, liveability (amenity, sporting opportunities, art and culture, events, access to services), economic growth (industry and business growth, diversity of industry, number and diversity of job opportunities).
+
+The services provided and infrastructure available in a regional area are key factors in the liveability of a location. Whether an individual or a family wants to remain in a region or relocate there, and whether investors are attracted to a region, is often influenced by these factors.
+
+If the Government gets smarter about how and where it invests in services and infrastructure, we can create big and lasting change for South Australia’s regions.
+
+This challenge aims to develop new innovative ideas where data can be used to analyse which regional South Australian locations the Government should invest in to gain the greatest regional development benefits. 
+
+Datasets to Highlight
+RDA Regional Profiles
+Census data
+Labour Force Data
+Australian Digital Inclusion Index
+ABS Jobs in Australia data set
+Government data sets–road network, rail network, ports, SA Water network, Powernetworks
+ABS Industry data sets
+ABS Population data sets
+IndustryAssociation Growth Plans",Use any open dataset to support your entry.,"",2019-09-06 05:12:17 +1000,2019-09-06 17:30:36 +1000,"[""Department of Premier and Cabinet South Australia""]"
+Australia,2019,119,Leveraging innovation precincts to drive economic prosperity.,"How might we build on interaction between businesses and research institutions in Australian innovation precincts, to boost business capability, growth, and job creation?","Innovation precincts are place-based innovation ecosystems. They usually have a widely understood geographic extent; a shared sense of identity amongst those involved; and a strong set of formal and informal networks and partnerships between people and businesses, researchers, education and training organisations and government. 
+
+There is strong evidence innovation precincts improve collaboration and innovation outcomes that contribute to business and economic growth. They facilitate sharing of resources, ideas, challenges and opportunities, and help businesses to access talent. They also create amenities and value for surrounding communities, and can contribute to urban renewal projects and drive regional economic growth.
+
+There are many existing and planned innovation precincts in Australia. However, the scale of many of these precincts is much lower in Australia than in North America or Europe, and their full potential is arguably less widely understood. Some of the challenges and opportunities to consider are:
+
+1. Information on innovation precincts’ areas of specialisation and assets, along with local supply chain opportunities, infrastructure and human capital, can guide business decisions to establish or expand operations in a particular location. It can also guide governments to target infrastructure investment and program design.
+
+2. Successful innovation precincts are locally led and based on local competitive strengths, innovation potential and needs. They should be integrated into surrounding communities and into local, regional, national and international networks and supply chains.
+
+3. The value of innovation precincts in encouraging end-user focused collaborative research, commercialisation and innovation is not well understood.
+
+4. Finding suitable collaboration partners remains challenging and time consuming for both the research sector and industry, particularly for small businesses.
+
+5. To help Australian innovation precincts to mature and reach global scale, precinct leaders must grow their expertise and capability in developing effective precincts; and precinct partners must develop their collaborative capability.
+
+6. Innovation precincts need to articulate and market their research capabilities and competitive strengths, including internationally Stocktake of Australian Innovation Precincts – June 2019
+
+Further Information
+https://www.industry.gov.au/strategies-for-the-future/promoting-innovation-precincts","The dataset ""Stocktake of Australian Innovation Precincts – June 2019"" must be used","",2019-09-05 22:30:18 +1000,2019-09-06 04:07:22 +1000,"[""Department of Industry, Innovation & Science""]"
+Northern Territory,2019,179,"🌟 Link Jabiru, in Kakadu NT, to the NT Space Industry or Tourism",Jabiru to the stars,"Jabiru, a small town in the heart of Kakadu, is set for a huge redevelopment with national
+focus with the upcoming closure of a nearby mine. It is between Darwin and Nhulunbuy –
+the planned location of Australia’s first space rocket launch site. How can Jabiru and
+Nhulunbuy be linked for either industry (e.g. rocket manufacturing?) or tourism (e.g.
+visitors to Kakada and Nhulunbuy?) ? Pick “industry” or “tourism” in your project.
+
+Further Information
+https://www.spaceindustry.com.au/
+https://theterritory.com.au/invest/investment-opportunities/redevelopment-of-jabiru",Use of at least one data source from new NT Open Data portal,"",2019-09-06 16:56:30 +1000,2019-09-07 10:18:09 +1000,"[""NTG""]"
+South Australia,2019,145,Local Government Information Technology Association of South Australia,"How might we identify opportunities for improvement or new Council services, infrastructure and facilities to benefit community outcomes in South Australia?","Councils provide a wide range of services, infrastructure and facilities for local communities, businesses and residents. Many people interact with different Councils to live, work, shop, socialise and with different levels of government for other everyday activities. 
+
+Combining data from Councils with other Councils, State or Federal government provides different views, perspectives and opportunities to identify new problems to solve ways Council can provide benefit to diverse communities. 
+",Use of at least one Council dataset,"",2019-09-06 05:15:07 +1000,2019-09-06 05:15:07 +1000,"[""Local Government Information Technology Association of South Australia""]"
+New Zealand,2019,175,Most Artistic use of data (outside the box),Most Artistic use of data (outside the box),"",Must use NZ data,"",2019-09-06 12:50:40 +1000,2019-09-06 12:50:40 +1000,[]
+Western Australia,2019,171,Most Creative Use of WA Data,This challenge is to provide recognition to the team that uses any available Western Australian data set to provide the most ‘creative’ solution to a local or regional issue in Western Australia.,"",Must utilise at least one WA Data Set,"",2019-09-06 12:34:48 +1000,2019-09-06 12:34:48 +1000,"[""WEB Business Hub""]"
+Tasmania,2019,161,Most Outstanding Tasmanian Benefit,How can we use Open Data to most benefit residents of Tasmania.,Take any data and use it to create something that will benefit the residents of Tasmania in some way or another.,Must use Tasmanian data,"",2019-09-06 06:08:15 +1000,2019-09-06 06:08:15 +1000,"[""Department of Premier and Cabinet Tasmania""]"
+Tasmania,2019,160,Most Tasmanian Commercial Benefit,"How can we showcase Tasmanian Data, and create something that could go on to be Commercial success?","Create something, anything, that you believe could go on to have Commercial success. Must use Tasmanian Data in some form or another.",Must use Tasmanian data,"",2019-09-06 06:07:23 +1000,2019-09-06 06:07:23 +1000,"[""Department of Premier and Cabinet Tasmania""]"
+Western Australia,2019,164,Nothing for us here!,How can we make our community feel more welcoming to young people by bringing public and private infrastructure and recreation information together in a way that is easy to use and can help everyone find the information relevant to them? ,"This challenge aims to improve young people’s access to information about their community to make them feel more welcome and included. The winning entry will be a tool that any young person with a smart phone can use to plan their recreation time, plan their journey to and from and find out information about upcoming events and activities. 
+
+Drawing together information and highlighting data sets that need release/ collection to empower or solve this issue will be valuable.",Use any open dataset to support your entry.,"",2019-09-06 06:21:36 +1000,2019-09-06 06:21:36 +1000,"[""City of Albany""]"
+Tasmania,2019,163,Open challenge benefits to the greater Launceston community,What is important to you in your community in the Launceston region?  What can your technology do to help to make Launceston awesome?  This is an open challenge so come up with something creative. ,"As stated in the Problem Statement, this is an open challenge with a focus on the Launceston region and community, it does not need to use City of Launceston Data specifically so be creative with your technology ideas to make Launceston awesome.  
+
+https://www.launceston.tas.gov.au/Home",Your product has a focus on Launceston or the Launceston region,"",2019-09-06 06:11:19 +1000,2019-09-06 06:11:19 +1000,"[""City of Launceston""]"
+International,2019,107,Optimise energy and water resource planning,Optimise energy and water resource planning,"Using the energy or water utilisation data, provide solution to optimise the supply and planning. Consider the current and historic utilisation trends, possibility of wastage, change in pattern due to external factors etc",Use any open dataset to support your entry.,"",2019-09-05 11:43:31 +1000,2019-09-06 03:37:56 +1000,"[""Infosys""]"
+New South Wales,2019,133,🌟 Pedestrian and Air Quality Sensor Data,How might we improve users’ experience of their city by using data from pedestrian and vehicle counters and/or air quality sensors?,"#### Smart Cities, Smart Liverpool, Smart Pedestrian Project
+Thousands of people walk through Liverpool’s City Centre every day and, through the Smart Pedestrian Project, the paths they take will help shape the city’s future.
+
+Liverpool City Council will count pedestrian and vehicle movements around the city centre, collecting data from smart devices and camera-counting technology. The data will be stripped of any identification and relayed and collected for analysis by researchers from University of Wollongong.
+
+Council will then use this data to inform planning decisions and respond to the rising number of residents and workers making their way around the city centre every day.
+
+#### Our Partners
+Council secured an Australian Government Smart Cities and Suburbs grant to jointly fund the project.
+
+Council is working with IT Integration Company Meshed and the University of Wollongong to deliver the technology. Meshed will supply the network and develop a wi-fi smart device counter. The university will develop the people-counting technology and data analysis.
+
+#### The Technology
+Sensors placed in key locations around Liverpool City Centre will connect through a Low Power Wide Area Network or LoRaWAN.
+
+LoRaWAN is a low-cost network that connects wireless battery-operated devices across a wide area. It operates on low bandwidth, meaning it can only transmit small packets of data, but its low power consumption allows extremely long battery life. 
+
+This makes it ideal for collecting data, such as pedestrian and vehicle movements or air quality.
+
+#### Further questions:
+
+How can people and vehicle counting sensors and air quality sensors be used to improve a user's experience of their city?
+
+How can businesses take advantage of existing sensors and IoT networks to their own advantage?
+
+How might local businesses or residents be engaged with existing IoT infrastructure?
+
+How can data/sensors be used by Councils to better plan for the development of the city? I.e. where are high pedestrian counts? Do bicycle counts align with future planned bike routes? Is there enough pedestrian infrastructure in areas with high counts of pedestrians (i.e. seats/bins/lighting)? Are the most likely routes taken by visitors into the city centre? Are these routes well served by wayfinding signage?
+",Use any open dataset to support your entry.,"",2019-09-06 04:42:01 +1000,2019-09-06 04:42:01 +1000,"[""Liverpool City Council""]"
+South Australia,2019,157,Physical Culture,"How might we better integrate our digital collections and datasets into our physical gallery, library, or museum spaces?","",Must use at least 2 datasets from 2 separate institutions that make up the North Terrace Cultural Precinct Innovation Lab,"",2019-09-06 06:00:35 +1000,2019-09-06 06:00:35 +1000,[]
+International,2019,108,Public Transport for the Future,"How might we combine data with modern technologies - such as AI/ML, IoT, Analytics or Natural Language interfaces - to better our public transport services. Outcomes could take the form of new commuter experiences, reduced environmental impact, or helping plan for the future.","As our urban and regional centres grow we increasingly rely on public services to efficiently and sustainably transport citizens. The winning entry will use data and modern technologies to drive a positive public transport outcome. We encourage teams to adopt a novel technical approach and to 'think big'. Your entry may focus on public transport in the context of a specific locality, region, state or country - but should offer insights or capabilities that can be broadly applied.",Use any open dataset to support your entry.,"",2019-09-05 11:47:30 +1000,2019-09-06 03:38:18 +1000,"[""Amazon Web Services""]"
+Australia,2019,115,Queensland OpenAPI,Create a project using one or more of Queensland's Open-API’s,"Application programming interfaces (API’s) are the building blocks of the app economy.
+
+API’s exist in many industries including environment, science, transportation, health, finance, employment and more.
+
+Projects including web apps, mobile apps, visualizations, AI and virtual reality can all be developed using data from an API.
+
+
+#### Extra Resources
+https://data.qld.gov.au/article/news-and-events/govhack-2019-challenges/open-api ",Your solution to this challenge should access at least one Queensland Open Data API. You can mix and match this with other API’s or data,https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-05 16:10:33 +1000,2019-09-06 23:06:27 +1000,"[""Queensland Government""]"
+International,2019,106,Reducing CBD Traffic Congestion,How to reduce traffic congestion or parking problems in CBD?,"Use the available data set on parking meters, traffic information, traffic camera and any other open data to arrive at innovative ways of smart traffic control or parking predictions",Use any open dataset to support your entry.,"",2019-09-05 11:37:16 +1000,2019-09-06 03:37:39 +1000,"[""Infosys""]"
+Victoria,2019,148,🌟 School Zones: Parents rights and school enrolment pressures ,"In Victoria, all children are entitled to be enrolled at their designated neighbourhood school as a right under the legislation. How can we help parents understand their rights and schools manage their enrolment pressure?","In Victoria, all children are entitled to be enrolled at their designated neighbourhood school as a right under the legislation. Designated neighbourhood schools are generally the public school within closest proximity to the student’s permanent residential address, unless the Minister for Education or Regional Director has restricted the zone of the school. 
+For children residing in metropolitan areas, Ballarat, Bendigo or Geelong, the designated neighbourhood school is usually the nearest public school in a straight line from your child’s permanent residential address. In any other area of Victoria, it is the nearest school by the shortest practicable route by distance.
+
+All public primary and secondary schools, including Prep/Foundation to Year 9 and multi-campus schools have zone maps. This does not include schools with specific enrolment criteria including English Language Schools and Select Entry Schools. Specialist schools also do not have zones and have special enrolment criteria.
+ 
+School zones help parents know their rights and also help schools manage their enrolment pressure. You can still request enrolment at a school that is not your designated neighbourhood school.
+That school can only accept your enrolment if there is sufficient capacity at the school.  
+If a school has some capacity, but not enough to fit everyone from outside its zone, the school uses the Placement Policy to determine enrolments
+ 
+School zones are based on proximity, in some cases zone have been adjusted in recognition of significant accessibility issues, e.g. presence of a ‘hard barrier’. Adjustments are minimised to stay consistent and transparent with the standard methodology.
+ 
+Some considerations to explore:
+Zones do no align current nor forecast student demand / population to school size / capacity
+In metropolitan areas, zones are defined by voronoi polygons not by road connectivity or public transport options
+Sometimes there is tension between adjusting a zone to population or for improved accessibility and whats fair and equitable for schools
+
+There is an FAQ link on the findmyschool.vic.gov website that explains zones in more detail
+https://www.education.vic.gov.au/parents/going-to-school/Pages/zones-restrictions.aspx
+","The use of any dataset featured on data.vic, or data accessed through developer.vic.gov.au Entries that cross reference Victorian government data with other sources will score highly. ","",2019-09-06 05:24:39 +1000,2019-09-06 19:26:00 +1000,"[""DPC VIC""]"
+Western Australia,2019,167,"🌟 Sharing the unique cultural, colonial and built heritage of Fremantle/Walyalup",The City of Fremantle is known for its unique heritage and as one of the most visited destinations in WA is constantly seeking new and innovative ways to make this information available to visitors. We are looking for a technology based solution that will provide a heritage interpretation experience to help replace the existing system.,"The City of Fremantle is known for its unique heritage and as one of the most visited destinations in WA is constantly seeking new and innovative ways to make this information available to visitors. We are looking for a technology based solution that will provide a heritage interpretation experience to help replace the existing system. The solution will be judged on how unique, intuitive, accessible and easy it is to implement and will include but not be limited to the following topics:
+
+- Indigenous cultural heritage of the Whadjuk people and the Walyalup area (Fremantle)
+- Post - colonial heritage including built heritage and notable historic people/figures/landmarks
+- Location based stories, characters and information 
+
+Visually, the solution would ideally be developed in line with Fremantle’s destination brand ‘This is Fremantle’. A style guide and other assets have been provided.
+
+A number of open datasets below provide a good place to start with regard to identifying sites, stories and landmarks worth sharing. We hope your research skills can identify some more!
+
+[This is Fremantle Design assets](https://www.dropbox.com/sh/ebr60dpbzk8gh16/AABXZskjxOi6VA0qlfr2oGTFa?dl=0)
+","Visually, the solution would ideally be developed in line with Fremantle’s destination brand ‘This is Fremantle’. A style guide and other assets have been provided.","",2019-09-06 06:29:06 +1000,2019-09-06 06:32:25 +1000,"[""City of Fremantle""]"
+South Australia,2019,144,Showcasing our regions,How might we promote South Australian regions to boost regional development? ,"South Australia’s regions and the communities that live and work in them are vital for the future prosperity of the state, and we want to make sure these communities continue to grow and thrive.
+
+The South Australian government is preparing a Regional Development Strategy as a plan to recharge our regions to ensure our regional communities can grow and thrive.
+
+In the present state, South Australia lacks regional areas with a population of sufficient size and diversity necessary to support diverse economies. Population growth is widely acknowledged as a key ingredient for economic growth and is often coupled with higher levels of services and enhanced liveability. Having regions with diverse economies also promotes strength and resilience and the capacity to generate growth from within.
+
+Industry growth and diversification, sustainable populations, and liveability are three key contributors to regional development. This challenge aims to develop new innovative ideas where data can be used to showcase what South Australian regions have to offer investors and/or city to regional migrants and skilled migrants. Contestants are encouraged to showcase any other aspects that relate to the development of our regions.
+
+Datasets to Highlight
+RDA Regional Profiles
+Census data
+Labour Force Data
+Australian Digital Inclusion Index
+ABS Jobs in Australia data set
+Government data sets–road network, rail network, ports, SA Water network, Powernetworks
+ABS Industry data sets
+ABS Population data sets
+IndustryAssociation Growth Plans",Use any open dataset to support your entry.,"",2019-09-06 05:13:42 +1000,2019-09-06 17:31:08 +1000,"[""Department of Premier and Cabinet South Australia""]"
+Victoria,2019,149,🌟 Small Business; Big Decisions ,"Where you choose to open a business plays a big role in whether you succeed or fail in small business. Many business owners make these decisions based on gut-feel or by doing extensive desk-research. 
+
+How might open data help small business make better decisions?","Where you choose to open a business plays a big role in whether you succeed or fail in small business. Many business owners make these decisions based on gut-feel or by doing extensive desk-research. 
+
+Data sources and tools: My Victoria is a new open data platform that provides small businesses  mapping and data services at the suburb and LGA level. 
+
+The My Victoria API provides data including population, income, industry, buildings, transport, schools and hospitals.
+
+Using any dataset on data.vic, the My Victoria platform, open datasets available to you or your own empirical data show us how a small business might identify certain trends in areas that allow us to see what new types of businesses Victorians might start and in what areas they are most likely to succeed?
+
+https://www.myvictoria.vic.gov.au/data-sources","The use of any dataset featured on data.vic, myvictoria.vic.gov.au or data accessed through developer.vic.gov.au. Entries that cross reference Victorian government data with other sources will score highly. 
+","",2019-09-06 05:26:51 +1000,2019-09-06 06:17:12 +1000,"[""DPC VIC""]"
+Queensland,2019,139,Spatial Information,How might Queenslanders find out more about where they live?,"The Queensland Government manages and publishes a large amount of spatial and non-spatial data at property, locality and local government area level but how might a member of the public quickly and easily find and interact with information about their specific area of interest. 
+
+Any solution must be able to be applied state-wide not just to a single local government area or a single region and allow the user to easily find and interact with the data.
+
+Consider potential users in Cairns, Longreach or Ipswich, all have some interest in learning more about their area including: property information, disaster management, vegetation, water, mining or history of the area. 
+
+#### Extra Information
+https://www.data.qld.gov.au/article/news-and-events/govhack-2019-challenges/spatial-information ",We strongly recommend using the Queensland Government open datasets on data.qld.gov.au and spatial web services on QSpatial,https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-06 05:00:55 +1000,2019-09-06 23:12:13 +1000,"[""Queensland Government""]"
+Victoria,2019,147,🌟 Telling Stories with Open Data,"In recent years, data story telling has emerged as a powerful and engaging form of communication. Using any data that you can find on data.vic tell us an interesting story in the form of a feature article or video report.  ","Data is a powerful way to communicate complex information. It's particularly suited to helping us show where things happen and showing how things change over time. 
+
+Data storytelling is more than simply visualising data. It allows us to combine a number of approaches to exploring different hypothesis or explore weird and unlikely correlations. 
+
+Taking a data-centric approach to storytelling makes information more accessible to people and it helps spark curiosity and engagement with important issues. 
+
+For this challenge we’re asking you to seek out the stories that can be told with Victorian Government Data. Your entry can be in the form of a feature article or video report.
+
+For an example of the type of thing you could do check out this example using our popular baby names API https://vimeo.com/357271039
+
+For inspiration you can take a look at: 
+https://datajournalism.com/
+https://datajournalismawards.org/
+https://www.theguardian.com/news/datablog/2011/jul/28/data-journalism
+",The use of any dataset featured on data.vic or data accessed through developer.vic.gov.au. Entries that cross reference Victorian government data with other sources will score highly. ,"",2019-09-06 05:22:29 +1000,2019-09-06 05:23:03 +1000,"[""DPC VIC""]"
+Queensland,2019,141,The best use of Gold Coast Data,Best use of Gold Coast Data,"",Must use Gold Coast Data,"",2019-09-06 05:04:17 +1000,2019-09-06 05:04:17 +1000,"[""Griffiths University in association with City of Gold Coast""]"
+Western Australia,2019,168,🌟 The Class of 2025,"Considering the growing and emerging economic industries, how can data be used to assist tertiary education providers in developing courses that are relevant to, and supportive of future job creation?","",Use any open dataset to support your entry.,"",2019-09-06 06:34:04 +1000,2019-09-06 06:34:04 +1000,"[""University of Notre Dame ""]"
+New South Wales,2019,132,"🌟 The three C’s of innovation – combination, collaboration, and chance. ",How can we combine and use environmental data to gain new insights into New South Wales and tell a story of our diverse landscape? ,"It has been said that the three C’s of innovation are combination, collaboration, and chance.
+The SEED portal currently houses over 2,500 environmental datasets relating to land, air, water, biota, endangered species and more. Help us understand how we can reimage and visualise our data to inform evidence-based and data-driven decisions. 
+Combine at least two datasets from the SEED open data portal and collaborate with your team to have a chance of winning.
+We are looking for the most creative entry which tells a great story. 
+","Use 2 or more datasets from the SEED platform 
+https://www.seed.nsw.gov.au/ ","",2019-09-06 04:39:40 +1000,2019-09-06 04:39:40 +1000,"[""Department of Planning, Industry and Environment""]"
+Australia,2019,120,Thrive or survive: how can we adapt for the future?,What will Australia in 2050 look like?,"What kind of environment will we need, and want? Using one or more CSIRO data sets, showcase how we will be able to build resilience for people and natural and built environments.",Must use one or more CSIRO datasets,"",2019-09-05 22:36:04 +1000,2019-09-06 03:59:08 +1000,"[""CSIRO""]"
+Australia,2019,122,TM-Link Data Discovery,"TM-Link is a newly available trade mark database developed in collaboration between IP Australia, Swinburne University and Melbourne University. TM-Link includes administrative data from jurisdictions across the world, linked at the application level by advanced neural network algorithms. We are encouraging hackers to explore this new data set and consider what creative visualisations, innovative insights and/or opportunities to further enrich the data they might imagine.","TM-Link is an internationally linked dataset that combines trade mark administrative data from IP Australia, Canadian Intellectual Property Office (CIPO), European Union Intellectual Property Office (EUIPO), United Kingdom Intellectual Property Office (UKIPO),
+and the United States Patent and Trademark Office (USPTO). TM-Link uses innovative neural network algorithms developed by Swinburne University to link trade mark applications between jurisdictions, enabling insights that were never before possible. TM-Link was released to the public on www.data.gov.au as a Beta in April, and forms a critical part of IP Australia’s forward work program in its data strategy. IP Australia is looking for creative ways of visualising the dataset and/or creating interfaces that showcase the value of TM-Link and how it can be used.",Must use TM-Link,"",2019-09-05 23:22:44 +1000,2019-09-06 04:01:39 +1000,"[""IP Australia""]"
+Australia,2019,125,Training AI models to deliver better human outcomes,For an outcome create two AI models based on contrasting incentive systems and examine the differing impacts on the defined outcome. ,"Most uses of AI today are in the pursuit of a goal without clear and consistent incentives or limitations of power. In this challenge, we want to see how different incentive systems lead to better, or worse, human outcomes.  
+
+We want to examine clearly distinguishable incentive systems and quantify the effect of these approaches on citizens.
+
+Teams must choose any open dataset and apply their models to an outcome for citizens.
+
+Then define any two different incentive systems such as economic, human or environmental measures. For instance, traditional financial incentives (more is good) vs the NSW Government Human Service Outcomes Framework (https://www.facs.nsw.gov.au/resources/human-services-outcomes-framework) or the New Zealand Living Standards (https://treasury.govt.nz/information-and-services/nz-economy/living-standards). 
+
+You can use one of these or make up your own, we just want to see, when set with a common challenge, whether different incentive systems get different results. 
+",Must make use of any open dataset and apply two different incentive systems,"",2019-09-06 04:18:06 +1000,2019-09-06 04:18:06 +1000,"[""Department of Customer Service""]"
+New South Wales,2019,134,Ultimo: what are the building blocks of an innovative precinct?,"What makes an innovative precinct? With huge infrastructural developments in the Ultimo community changing the way people live, work and play in and around the Ultimo area, how might we more accurately predict what the precinct will need in the future to ensure it is a hub for innovation, creativity and entrepreneurship? ","Over the last 10-15 years, the Ultimo precinct has undergone considerable change. The building of a number of large UTS developments such as the Frank Gehry building, and the brand new UTS Central, as well as the redevelopment and re-opening of The Goods Line in 2015, must have had considerable impact on the way that people interact with the area. What can the available data relating to this area teach us about the impact of these changes, and how we can continue to build towards the vision of Ultimo being a hub for innovation, creativity and entrepreneurial activity? ",Use any open dataset to support your entry.,"",2019-09-06 04:44:18 +1000,2019-09-06 04:45:30 +1000,"[""University of Technology, Sydney""]"
+Victoria,2019,150,🌟 Unearthing Victoria – telling stories of the past that speak to the problems of today,What interesting and useful stories can we tell about places in Victoria using the digitised historical business listings from the old Sands and McDougall directories (available in Victoria Unearthed) and other historical data and information sources?,"What interesting and useful stories can we tell about places in Victoria using the digitised historical business listings from the old Sands and McDougall (S&McD) directories (available in [Victoria Unearthed](https://mapshare.vic.gov.au/victoriaunearthed/)) and other historical data and information sources?
+
+What makes an “interesting and useful story” is deliberately open-ended, but requires a rationale for why the story is interesting and useful. It could be, for example:
+
+- What business activities may have occurred at this place, and does this have implications for the present day (e.g. possible heritage value, potential legacy contamination, other facts of note…)?
+­    - For example, which locations/areas are most impacted by potentially contaminating industries of the past, and where is the greatest risk? 
+- What can we learn from patterns of past business development that may be of relevance for today? 
+­    - For example, how does the data show the interaction between industries and population and how it changes through time?
+- What can the data tell us about the growth and decline of specific industries over time, including any current implications?
+- Or … anything else that speaks to a current issue, concern or interest.
+
+Submissions that will appeal to the judges may involve:
+
+- A mobile-friendly approach to accessing and viewing place-based data;
+- Solutions that help improve the S&McD dataset, such as: improving the accuracy and precision of the location data; linking to other existing data sources; or allowing users to add or correct information (e.g. ‘crowdsourcing’)
+- Mining the S&McD data for “interesting and useful stories”
+- Something really brilliant that the judges hadn’t even considered – feel free to blow our minds!
+
+#### Data and Posters
+https://drive.google.com/drive/folders/1D0Yj4-Lr-P2XEzuv4L2M_sEBhkCGUtem","The winning entry will use the Sands and McDougall (S&McD) dataset (mandatory); (optionally) use or link to other data and information sources (particularly if it complements or improves the quality of the S&McD dataset); be able to tell an “interesting and useful story” about a location or area (this is deliberately open-ended, but requires a rationale for why the story is interesting and useful)
+",https://www.youtube.com/embed/TIBUAzPuU3Q,2019-09-06 05:30:47 +1000,2019-09-06 05:31:05 +1000,"[""VIC DELWP""]"
+Queensland,2019,142,🌟 Unearth references to Indigenous agricultural practises by searching archival records,"There is increasing interest in foods that were grown on this continent for millennia, awareness of Aboriginal farming practices, and the history they reveal about Australia pre-colonisation. This challenge is to search Trove for descriptions of land care, cropping, harvesting and food storage, to add to the bank of knowledge of Aboriginal farming.","There is increasing interest in foods that were grown on this continent for millenia, awareness of Aboriginal farming practices, and the history they reveal about Australia pre-colonisation. 
+
+“*It was a very inconvenient truth that Indigenous Australians lived in permanent structures and in large communities, built dams and wells, planted and irrigated and harvested seed, and preserved and stored the surplus.*” Bruce Pascoe, **Young Dark Emu** p9
+
+Cultural knowledge of cultivation, harvesting, and food preparation passed on through oral traditions was also documented by European explorers and settlers in journals and diaries. 
+
+This challenge is to search Trove for these early descriptions of land care, cropping, harvesting, fishing and food storage, to add to the bank of knowledge of Aboriginal farming. Trove has a well-documented API which could be used to unearth references to these agricultural activities. Searching Trove may result in finding previously unknown references, leading to a better understanding of how people lived.
+
+Showcase this bank of knowledge.
+
+Please refer to https://www.firstlanguages.org.au/resources/reporting when including Aboriginal and Torres Strait Islander languages in the project.",Must use Trove,"",2019-09-06 05:06:08 +1000,2019-09-06 05:10:04 +1000,"[""The University of Queensland""]"
+Victoria,2019,146,🌟 Visualising the soil quality of Victoria,"Agriculture Victoria have years of meticulously collected soil quality information. This wealth of data is an incredibly rich resource for farmers, industry and researchers who make decisions based on what’s on, or under, the ground. This might include ecological planning, bushfire mapping or deciding on next generation crops. How would you represent this data to help decision makers?","Universally, farmers, researchers and members of the agribio industry need to know ‘what’s the nature of the soil at this location’? Is it sandy, organic matter rich, full of clay? Their reasons for asking it are varied and may be for short or long-term projects. By accessing accurate, easily digestible information it may make a world of difference and  help make better, faster, more sustainable and generally better-informed research, planning or investment decisions.
+
+For inspiration you can take a look at: 
+http://agriculture.vic.gov.au/agriculture/farm-management/soil-and-water/soils
+http://agriculture.vic.gov.au/agriculture
+http://agriculture.vic.gov.au/agriculture/farm-management/soil-and-water
+https://www.qt.com.au/news/telling-the-story-of-soil/2783191/
+https://www.theland.com.au/story/4731883/australias-soil-whisperer/
+https://www.healthysoils.com.au/about
+",The use of the Agriculture Victoria Soils API on developer.vic.gov.au,"",2019-09-06 05:18:26 +1000,2019-09-06 05:18:26 +1000,"[""DPC VIC""]"
+Australia,2019,117,Water – From source to tap.,"Ideas to engage upper primary and lower secondary school students (with advantages for community learning) in learning about the water cycle (source to tap). We want them to understand where water comes from (sources), the different types of water (drinking, recycled, classes of water), how and why it is treated (health), how we move it (infrastructure) and how we use it (drinking, cooking, commercially, fires, toilets, sanitation, washing, in the home). The ideas should highlight why water is so important for our survival. Ideas should be fun, interactive and educational. The engagement should be relevant to the Australian School Curriculum, adaptable to water organisations and schools around Australia and sustainable.","We would like to generate ideas to design an educational tool for upper primary and lower secondary students (where possible additional opportunity for community learning) to teach them about every aspect of the water cycle:
+1. Where water comes from – how it gets to your home/business – how it is returned to the environment (water cycle)
+2. Water source in our catchment areas (including the water cycle)
+3. Water from alternative sources (e.g. desalination, bores)
+4. Catchment to treatment plant
+5. Treatment process
+6. To our taps
+Some places source water from bores, dams, and reservoirs and in parts of Australia, water is sourced from treated seawater at a desalination plant. Some add treated wastewater back into underground storages to be eventually used as drinking water. Some catch water in reservoirs. 
+
+(The following does not form part of the challenge: Participants are invited to take a short video/photos of themselves undertaking our challenges and post on Instagram #centralhighlandswater)
+
+Our judging panel includes
+Mr Anand Arivukkarasu, VP Product, Grin (Silicon Valley startup) and previously well-known Product & Growth Leader at Facebook from California USA
+",Eligibility Jurisdiction - Australia only,https://www.youtube.com/embed/chIOaYDwkFU,2019-09-05 17:47:54 +1000,2019-09-06 13:56:32 +1000,"[""Central Water Highlands""]"
+Australia,2019,116,Waterwise,How can we protect and preserve our water resources?,"Queensland has roughly 68 large dams, 261 small surface water storage's and 179 large river systems.
+
+Over 60% of Queensland is currently in drought.
+
+The Great Artesian Basin covers 1.7 million sq km and holds 64 cubic kilolitres.
+
+Water demand is increasing with population growth, changes in economic growth and pollution.
+
+#### Extra Resources
+https://data.qld.gov.au/article/news-and-events/govhack-2019-challenges/waterwise  
+
+Other Resources
+1. Water use and monitoring - https://www.qld.gov.au/environment/water
+2. Queensland Globe - https://qldglobe.information.qld.gov.au/
+3. Water Catchments and Planning - https://www.business.qld.gov.au/industries/mining-energy-water/water/catchments-planning
+4. WaterQ – A 30 year strategy - http://www.agriculture.gov.au/water/national/great-artesian-basin
+5. Great Artesian Basin - http://www.agriculture.gov.au/water/national/great-artesian-basin
+6. Dams and water storages 1990 - https://data.gov.au/dataset/ds-ga-a05f7892-b795-7506-e044-00144fdd4fa6/details?q=water
+7. Water planning framework - https://www.business.qld.gov.au/industries/mining-energy-water/water/catchments-planning/planning
+8. DNRME Water Plan Map - https://www.dnrme.qld.gov.au/online-applications/water-for-queensland/map
+9. Rural Water Management Program - https://www.dnrme.qld.gov.au/land-water/initiatives/rural-water-management
+10. Water Pollution - https://environment.des.qld.gov.au/water/monitoring/
+
+
+
+
+
+","We suggest you consider using the Queensland Government open datasets on
+https://data.qld.gov.au/
+
+",https://www.youtube.com/embed/3AZNqXeD4c4,2019-09-05 16:17:12 +1000,2019-09-06 23:07:57 +1000,"[""Queensland Government""]"
+New South Wales,2019,135,What are the key levers that can be affected to ease congestion in NSW?,"Using open data and other data sources, what can you infer that can be changed by Transport for NSW to help ease congestion?  This can be congestion from people, cars, train passengers, on a platform or queuing for a bus or just generally on a road.  
+What has happened in the past?  What information can we provide customers, bus drivers or employers to assist in easing congestion?  
+Note: this is not just road congestion.  It can be viewed holistically or at a microlevel – for say an intersection.  ","",Use of open data or other data.  Please reference what datasets you have used (or would have to use) for your solution.,"",2019-09-06 04:47:03 +1000,2019-09-06 04:47:03 +1000,"[""Transport for NSW""]"
+New South Wales,2019,131,🌟 What's the coolest way to travel across the city?,"Using datasets which map urban heat and green cover across Greater Sydney, we challenge you to develop a tool which visualises green routes through the city. Help people avoid urban heat and move across the city in comfort by mapping out green streets and pathways which connect shopping centres, public transport stops and public spaces.","Greater Sydney Commission has a vision for a connected Green Grid across Greater Metropolitan Sydney.
+Already, GSC has used the Urban Heat & Green Cover (UH&GC) datasets, produced by DPIE Climate Research, to map the exposure of communities to urban heat and their proximity to green spaces in a baseline report, [Pulse of Greater Sydney: Measuring what matters in the Metropolis](https://www.greater.sydney/pulse-of-greater-sydney).
+But people stand to benefit from a user-friendly tool which puts this information in their hands and enables them to plan comfortable green routes across the city on public transport and along walkways. Equipped with green maps in their pockets, people can prepare for, manage and adapt to rising heatwaves and urban heat
+",Must use at least the Urban Heat & Green Cover dataset(s) from the SEED portal. ,"",2019-09-06 04:38:07 +1000,2019-09-06 04:38:07 +1000,"[""Department of Planning, Industry and Environment""]"
+Western Australia,2019,180,Why is “placemaking” important for local communities?,"A strong community is created through creating a “sense of place” through engagement with the community, partnerships with businesses and industry","Local government authorities provide a broad range of services for the community, aimed at improving liveability. A strong community is created through creating a “sense of place” through engagement with the community, partnerships with businesses and industry and a long view for improved outcomes for the physical, emotional, mental and environmental outcomes for local communities. 
+
+A great deal of emphasis is placed nowadays on the development of precincts in community and regional development. These might be cultural and creative; industrial; manufacturing; tourism and or agricultural. 
+
+What data is available, and can we develop a tool to measure or simulate the value / benefits these initiatives bring to our local community in both social and economic terms that can be utilised for refining and directing future policy, strategy and allocation of funding.",Western Australian competitors,"",2019-09-06 17:10:16 +1000,2019-09-06 19:44:29 +1000,[]
