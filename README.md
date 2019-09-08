@@ -6,7 +6,7 @@ We are a diverse team led by people experiencing homelessness. We’re using dat
 # Website
 
 # Interactive visualisations
-* [Service demand vs housing affordavility](ethicalcode.github.io/intentcity/visualisations/service_demand_vs_affordability.html)
+* [Service demand vs housing affordavility](https://ethicalcode.github.io/intentcity/visualisations/service_demand_vs_affordability.html)
 * [Count of homeless population per region](ethicalcode.github.io/intentcity/visualisations/total_homeless_aurin_sa2.html)
 * [Service demand vs service supply](ethicalcode.github.io/intentcity/visualisations/ratio_of_requests_to_providers.html)
 
