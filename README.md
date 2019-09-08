@@ -6,9 +6,9 @@ We are a diverse team led by people experiencing homelessness. We’re using dat
 # Website
 
 # Interactive visualisations
-* [Service demand vs housing affordavility](https://ethicalcode.github.io/intentcity/visualisations/service_demand_vs_affordability.html)
-* [Count of homeless population per region](ethicalcode.github.io/intentcity/visualisations/total_homeless_aurin_sa2.html)
-* [Service demand vs service supply](ethicalcode.github.io/intentcity/visualisations/ratio_of_requests_to_providers.html)
+* [Service demand vs housing affordability](https://ethicalcode.github.io/intentcity/visualisations/service_demand_vs_affordability.html)
+* [Count of homeless population per region](https://ethicalcode.github.io/intentcity/visualisations/total_homeless_aurin_sa2.html)
+* [Service demand vs service supply](https://ethicalcode.github.io/intentcity/visualisations/ratio_of_requests_to_providers.html)
 
 # Data sources
 Data on homelessness was drawn from the AURIN, Australian Bureau of Statistics' 2016 Census, and the Australian Institute of Health and Welfare's Specialist Homelessness Services data cubes.
